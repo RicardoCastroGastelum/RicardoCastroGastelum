@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/X.png?raw=true" width="80" style="border-radius:50%;" />
+      <img src="https://raw.githubusercontent.com/[https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/X.png?raw=true](https://github.com/RicardoCastroGastelum/RicardoCastroGastelum/blob/main/X.png?raw=true)" width="80" style="border-radius:50%;" />
     </td>
     <td>
       <h3>Hola, soy Ricardo Castro Gastelum</h3>
